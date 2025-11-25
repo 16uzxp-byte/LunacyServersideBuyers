@@ -2,3 +2,8 @@
   "Discord": "1347769134791790762",
   "rblx": "Mat3L0rdHax"
 }
+
+{
+  "Discord": "1374518202977226752",
+  "rblx": "Cru2ad3rL0rd"
+}
