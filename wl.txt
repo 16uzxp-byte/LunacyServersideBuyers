@@ -1,7 +1,7 @@
 [
   {
     "Discord": "1347769134791790762",
-    "rblx": "Mat3L0rdHax"
+    "rblx": ["Mat3L0rdHax", "14uzx"]
   },
   {
     "Discord": "1374518202977226752",
