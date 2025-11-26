@@ -17,6 +17,7 @@
   },
   {
     "Discord": "1350872231663763506",
-    "rblx": "ClassicRP"
+    "rblx": "CIassicRP"
   }
 ]
+
