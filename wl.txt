@@ -18,13 +18,6 @@
   {
     "Discord": "1350872231663763506",
     "rblx": "CIassicRP"
-  },
-  {
-    "Discord": "1400946003175276574",
-    "rblx": "Lobytheinkling"
-  },
-  {
-    "Discord": "1422942298517540864",
-    "rblx": "Endestrit"
   }
 ]
+
