@@ -21,7 +21,10 @@
   },
   {
     "Discord": "1347769134791790762",
-    "rblx": "HaxElysian"
+    "rblx": "ElysianHax"
+  },
+  {
+    "Discord": "806322386902188043",
+    "rblx": "Influxusreel_1"
   }
 ]
-
